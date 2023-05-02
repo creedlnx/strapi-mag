@@ -3,10 +3,15 @@ Para o *build* e execução deste projeto, usei a *stack* de Docker, Docker Hub,
 Caso não tenha estas *stacks*, abaixo segue a documentação de cada uma destas:
 
 Docker: https://docs.docker.com/
+
 Docker Hub: https://docs.docker.com/docker-hub/
+
 Minikube: https://minikube.sigs.k8s.io/docs/start/
+
 Helm: https://helm.sh/docs/intro/install/
+
 Strapi CLI: https://docs.strapi.io/dev-docs/installation/cli
+
 Strapi Deploy: https://docs.strapi.io/dev-docs/deployment
 
 Considerando que o ambiente com ***minikube*** ou até mesmo o *cluster* de ***kubernetes***  e a stack usada para o *deploy* já estão prontos e com o contexto correto no *kubernetes* selecionado, para aplicar o *deploy* executar os *steps* a seguir:
